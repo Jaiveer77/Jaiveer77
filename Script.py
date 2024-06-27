@@ -16,7 +16,9 @@ MY POWERS 🤖
 ⭐️ HINDI , HOLLYWOOD , BOLLYWOOD FILMS 🎥 
 
 TO GET MOVIES 🎥 TYPE MOVIE NAME DOWN👇🏻
-MY OWNER - @JAIVEER05</b>"""
+MY OWNER - @JAIVEER05
+
+Links Monetization Partner: Shareus.io #32995</b>"""
 
     HELP_TXT = """<b>Hᴇʏ {}
 Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
